@@ -1,6 +1,6 @@
 # Hi, I'm Amisha Sharma 👋
 
-CS undergrad interested in software engineering and applied data/AI. I build things end-to-end — from database schema to deployed app.
+CS undergrad interested in software engineering and applied data/AI. I build things end to end from database schema to deployed app.
 
 **B.Tech CSE, Manipal University Jaipur** · Jaipur, India
 
