@@ -27,17 +27,18 @@ Restaurant expansion intelligence platform — computes a data-backed Cuisine Op
 
 [Live demo](https://flavorlens-4uyeebubdu4u674bz8rtro.streamlit.app/) · [Repository](https://github.com/amishasharma2220/FlavorLens)
 
-### [CampusConnect](https://github.com/amishasharma2220/CampusConnect)
-Full-stack event management platform built with a complete DevOps pipeline, not just the app layer.
+### CampusConnect
 
-**Tech:** React (Vite) · TypeScript · Node.js/Express · MongoDB · Docker · Jenkins · GitHub Actions
+Full-stack university event management platform for Manipal University Jaipur — built from scratch, deployed end to end.
 
-- Full CI/CD pipeline: test → build → deploy → monitor
-- Containerized frontend and backend
-- Automated API testing with Jest and Supertest, live uptime monitoring
+**Tech:** React · TypeScript · FastAPI · Python · PostgreSQL · SQLAlchemy · JWT · Tailwind CSS · Vercel · Render · Neon
 
-[Live demo](https://campusconnect-1-dswf.onrender.com/) · [Repository](https://github.com/amishasharma2220/CampusConnect)
+- Designed and implemented a REST API with JWT auth (access + refresh token rotation), role-based access control for 3 user types (student, club admin, university admin)
+- PostgreSQL schema with 22 tables; seeded 82 real MUJ clubs and real campus events; admin approval workflow for event lifecycle
+- Frontend with auth-aware navbar, 3 separate dashboards, Google Maps venue finder, real-time registration tracking
+- Deployed: React on Vercel · FastAPI on Render · PostgreSQL on Neon
 
+[Live Demo](https://campus-connect2-alpha.vercel.app) · [Repository](https://github.com/amishasharma2220/CampusConnect2)
 ### [Kulfiwala](https://github.com/amishasharma2220/Kulfiwala)
 Full-stack dessert ordering app with authenticated checkout and order history.
 
