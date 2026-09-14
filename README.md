@@ -1,6 +1,6 @@
 # Hi, I'm Amisha 👋
 
-CS undergrad who builds things end to end — database schema to deployed app.
+CS undergrad who builds things end to end database schema to deployed app.
 Currently in my final year at Manipal University Jaipur.
 
 I'm interested in full-stack engineering, data analytics, and applied AI that actually does something useful.
@@ -9,7 +9,7 @@ I'm interested in full-stack engineering, data analytics, and applied AI that ac
 
 ## What I'm working on
 
-- **MYRROR** — AI-powered personal fashion shopping companion (React + TypeScript + FastAPI + PostgreSQL + Gemini). Context-aware outfit and shopping recommendations based on user profile, occasion, budget, and wardrobe.
+- **MYRROR** — AI powered personal fashion shopping companion (React + TypeScript + FastAPI + PostgreSQL + Gemini). Context-aware outfit and shopping recommendations based on user profile, occasion, budget, and wardrobe.
 - **ATG-DeiT** — ML research on Alzheimer's disease detection from brain MRI, targeting IEEE Access 2026. 97.84% accuracy, 100% recall on Moderate Dementia, outperforms nine baselines including VGG-16 and ResNet-152.
 
 ---
@@ -32,7 +32,7 @@ Computes a data-backed Cuisine Opportunity Index for Bangalore localities instea
 
 ### [CampusConnect](https://github.com/amishasharma2220/CampusConnect2) — University Event Management Platform
 
-Built for Manipal University Jaipur — from scratch, deployed end to end.
+Built for Manipal University Jaipur from scratch, deployed end to end.
 
 **Tech:** React · TypeScript · FastAPI · Python · PostgreSQL · SQLAlchemy · JWT · Tailwind CSS · Vercel · Render · Neon
 
