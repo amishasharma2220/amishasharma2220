@@ -1,6 +1,6 @@
-# Hi, I'm Amisha 👋
+# Hi, I'm Amisha 
 
-CS undergrad who builds things end to end database schema to deployed app.
+Last Year CS undergrad who builds things end to end database schema to deployed app.
 Currently in my final year at Manipal University Jaipur.
 
 I'm interested in full-stack engineering, data analytics, and applied AI that actually does something useful.
@@ -9,14 +9,14 @@ I'm interested in full-stack engineering, data analytics, and applied AI that ac
 
 ## What I'm working on
 
-- **MYRROR** — AI powered personal fashion shopping companion (React + TypeScript + FastAPI + PostgreSQL + Gemini). Context-aware outfit and shopping recommendations based on user profile, occasion, budget, and wardrobe.
-- **ATG-DeiT** — ML research on Alzheimer's disease detection from brain MRI, targeting IEEE Access 2026. 97.84% accuracy, 100% recall on Moderate Dementia, outperforms nine baselines including VGG-16 and ResNet-152.
+- **MYRROR** : AI powered personal fashion shopping companion (React + TypeScript + FastAPI + PostgreSQL + Gemini). Context-aware outfit and shopping recommendations based on user profile, occasion, budget, and wardrobe.
+- **ATG-DeiT** : ML research on Alzheimer's disease detection from brain MRI, targeting IEEE Access 2026. 97.84% accuracy, 100% recall on Moderate Dementia, outperforms nine baselines including VGG-16 and ResNet-152.
 
 ---
 
 ## Projects
 
-### [FlavorLens](https://github.com/amishasharma2220/FlavorLens) — Restaurant Expansion Intelligence Platform
+### [FlavorLens](https://github.com/amishasharma2220/FlavorLens) : Restaurant Expansion Intelligence Platform
 
 Computes a data-backed Cuisine Opportunity Index for Bangalore localities instead of relying on guesswork.
 
@@ -24,13 +24,13 @@ Computes a data-backed Cuisine Opportunity Index for Bangalore localities instea
 
 - Composite opportunity score built from four independently weighted, documented components
 - Confidence scoring so low-data localities are flagged, never faked with synthetic fill
-- LLM layer explains pre-computed metrics only — it never calculates
+- LLM layer explains pre-computed metrics only and it never calculates
 
 [Live demo](https://flavorlens-4uyeebubdu4u674bz8rtro.streamlit.app/) · [Repository](https://github.com/amishasharma2220/FlavorLens)
 
 ---
 
-### [CampusConnect](https://github.com/amishasharma2220/CampusConnect2) — University Event Management Platform
+### [CampusConnect](https://github.com/amishasharma2220/CampusConnect2) : University Event Management Platform
 
 Built for Manipal University Jaipur from scratch, deployed end to end.
 
@@ -45,7 +45,7 @@ Built for Manipal University Jaipur from scratch, deployed end to end.
 
 ---
 
-### [Kulfiwala](https://github.com/amishasharma2220/Kulfiwala) — Full-Stack Food Ordering Platform
+### [Kulfiwala](https://github.com/amishasharma2220/Kulfiwala) : Full-Stack Food Ordering Platform
 
 **Tech:** React (Vite) · TypeScript · Node.js/Express · MongoDB Atlas · JWT
 
@@ -73,7 +73,7 @@ Built for Manipal University Jaipur from scratch, deployed end to end.
 
 ## Education
 
-**B.Tech, Computer Science Engineering** — Manipal University Jaipur
+**B.Tech, Computer Science Engineering** ; Manipal University Jaipur
 CGPA: 8.23 · Dean's List
 
 ---
